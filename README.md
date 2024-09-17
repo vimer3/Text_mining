@@ -1,8 +1,8 @@
 # Text_mining
 
-📊🌟 Sentiment Analysis on Yelp Reviews
-This project presents a comprehensive analysis of Yelp reviews, focusing on sentiment classification using various techniques and models. 🔍💬
-🔑 Key Components:
+📊🌟 Sentiment Analysis on Yelp Reviews\\
+This project presents a comprehensive analysis of Yelp reviews, focusing on sentiment classification using various techniques and models. 🔍💬\\
+🔑 Key Components:\\
 1️⃣ Data Preprocessing and Exploratory Analysis 🧹📊
 Our journey begins with thorough cleaning of review text and visualization of review distributions and characteristics. We employ various techniques to prepare our data for analysis and gain initial insights.
 2️⃣ Traditional Machine Learning Approaches 🤖🎯
